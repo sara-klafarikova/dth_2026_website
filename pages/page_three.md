@@ -9,8 +9,8 @@
 
 <p><b>Sources</b></p>
 
-- ‘K-samsök – en digital dataförmedlingstjänst för kulturarv’. 30 September 2026. https://www.raa.se/museer/digital-omstallning-pa-museiomradet/k-samsok-en-digital-dataformedlingstjanst-for-kulturarv/.
-‘Runor’. Accessed 11 November 2026. https://runor.raa.se/search.
-‘Vanliga frågor om söktjänsten Runor’. 30 October 2020. https://www.raa.se/hitta-information/runor/vanliga-fragor-runor/.
+- <a href=https://www.raa.se/museer/digital-omstallning-pa-museiomradet/k-samsok-en-digital-dataformedlingstjanst-for-kulturarv/> "‘K-samsök – en digital dataförmedlingstjänst för kulturarv’</a>. 30 September 2026. 
+- ‘<a href=https://runor.raa.se/search>Runor</a>’. Accessed 11 November 2026. 
+- ‘<a href="https://www.raa.se/hitta-information/runor/vanliga-fragor-runor/">Vanliga frågor om söktjänsten Runor</a>’. 30 October 2020.
 
 
