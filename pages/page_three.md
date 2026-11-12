@@ -19,4 +19,4 @@
         src="./images/runestone_blank.png"
         width="420"
         height="100"
-    >
+        alt="Runestone illustration"/>
