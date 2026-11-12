@@ -15,4 +15,8 @@
 - ‘<a href=https://runor.raa.se/search>Runor</a>’. Accessed 11 November 2026. 
 - ‘<a href="https://www.raa.se/hitta-information/runor/vanliga-fragor-runor/">Vanliga frågor om söktjänsten Runor</a>’. 30 October 2020.
 
-
+<img 
+        src="./images/runestone_blank.png"
+        width="420"
+        height="100"
+    >
