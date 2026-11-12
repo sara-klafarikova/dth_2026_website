@@ -1,12 +1,16 @@
-# Page three
+# Page three: Open source
 
-## This is the headline of your third page
+## Which open source project would be useful in my own major, and why?
 
-The text on this page is written in the file **pages/page_two.md**. The first line, starting with a single #, becomes the heading in the banner.
+<p>OS has not bypassed my major, Scandinavian studies, specialized in the Middle Ages in Scandinavia. The project examined below is made for organizations preserving cultural artefacts.</p>
+<p>The project <i>K-samsök</i>, developed by the Swedish National Heritage Board, offers museums and archives a framework for publishing data from their collections to researchers worldwide. Such access saves time on travel and bureaucracy and broadens the possibilities of research. An example is <a href="https://runor.raa.se/search">Runor</a>, a database of all known runic inscriptions. It provides transliteration, translation, location and material of each inscription, along with references to literature and other institutions, such as the Rune department of Copenhagen University. Its advanced search can find specific words and filter inscriptions by location or period.</p>
+<p><a href="https://github.com/riksantikvarieambetet/ksamsok">The GitHub statistics</a> of <i>K-samsök</i> indicate a small community: 8 contributors and 1,161 commits, the last on 1 February 2023. The MIT license allows free modification and redistribution. The Swedish National Heritage Board is a body under the Ministry of Culture and is thus funded by the Swedish government.</p>
+<p>In conclusion, the project is reliable and very helpful. I use Runor heavily for my master’s thesis. Older rune databases exist as a fallback, but they are not updated and do not unite inscriptions from institutions across Scandinavia, England and Iceland. The project makes my research more precise and swifter.</p>
 
-This is my own page that I just created and added as I was requested during the lecture on 22nd October.
+<p><b>Sources</b></p>
 
-### Another headline
+- ‘K-samsök – en digital dataförmedlingstjänst för kulturarv’. 30 September 2026. https://www.raa.se/museer/digital-omstallning-pa-museiomradet/k-samsok-en-digital-dataformedlingstjanst-for-kulturarv/.
+‘Runor’. Accessed 11 November 2026. https://runor.raa.se/search.
+‘Vanliga frågor om söktjänsten Runor’. 30 October 2020. https://www.raa.se/hitta-information/runor/vanliga-fragor-runor/.
 
-1. Numbered lists work too
-2. Just start the lines with numbers
+
