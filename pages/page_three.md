@@ -1,3 +1,5 @@
+<div id="pageHero" style="background-image: url('./images/runor_map.png');"></div>
+
 # Page three: Open source
 
 ## Which open source project would be useful in my own major, and why?
