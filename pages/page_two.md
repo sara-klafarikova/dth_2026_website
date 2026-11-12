@@ -1,3 +1,5 @@
+<div id="pageHero" style="background-image: url('./images/thinking.png');"></div>
+
 # Page two: Open Source
 
 ## What are the disadvantages of open source software?
