@@ -16,7 +16,4 @@
 - ‘<a href="https://www.raa.se/hitta-information/runor/vanliga-fragor-runor/">Vanliga frågor om söktjänsten Runor</a>’. 30 October 2020.
 
 <img 
-        src="./images/runestone_blank.png"
-        width="420"
-        height="100"
-        alt="Runestone illustration"/>
+        src="./images/runestone_blank.png" alt="Runestone illustration"/>
