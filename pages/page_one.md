@@ -1,3 +1,5 @@
+<div id="pageHero" style="background-image: url('./images/teamwork.avif');"></div>
+
 # Page one: Open Source
 
 ## About
