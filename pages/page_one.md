@@ -15,7 +15,7 @@ These advantages apply mostly to developers. Regular users benefit from accessib
 
 
 <b>Sources</b>
-- RAYMOND, Eric S., The Cathedral and The Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary, O’Reilly & Associates, Inc., 2001.
+- RAYMOND, Eric S., <i>The Cathedral and The Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary</i>, O’Reilly & Associates, Inc., 2001.
 - Smalley, Stephanie Susnjara, Ian. [‘What Is Open Source Software? | IBM’](https://www.ibm.com/think/topics/open-source). 23 December 2024.
 - [‘The Open Source Definition’](https://opensource.org/osd). Open Source Initiative, 7 July 2006. 
 
