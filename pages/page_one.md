@@ -14,7 +14,7 @@ Apart from low or non-existent cost, OS offers benefits to experts, regular user
 These advantages apply mostly to developers. Regular users benefit from accessibility regardless of cost or hardware requirements, while businesses and institutions can adapt the software to their needs. With no single owner, they also do not become dependent on a provider and its fate.
 
 
-<b>Sources</b>
+## References
 - RAYMOND, Eric S., <i>The Cathedral and The Bazaar: Musing on Linux and Open Source by an Accidental Revolutionary</i>, O’Reilly & Associates, Inc., 2001.
 - Smalley, Stephanie Susnjara, Ian. [‘What Is Open Source Software? | IBM’](https://www.ibm.com/think/topics/open-source). 23 December 2024.
 - [‘The Open Source Definition’](https://opensource.org/osd). Open Source Initiative, 7 July 2006. 
