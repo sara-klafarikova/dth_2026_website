@@ -7,7 +7,7 @@
 <p><a href="https://github.com/riksantikvarieambetet/ksamsok">The GitHub statistics</a> of <i>K-samsök</i> indicate a small community: 8 contributors and 1,161 commits, the last on 1 February 2023. The MIT license allows free modification and redistribution. The Swedish National Heritage Board is a body under the Ministry of Culture and is thus funded by the Swedish government.</p>
 <p>In conclusion, the project is reliable and very helpful. I use Runor heavily for my master’s thesis. Older rune databases exist as a fallback, but they are not updated and do not unite inscriptions from institutions across Scandinavia, England and Iceland. The project makes my research more precise and swifter.</p>
 
-## Sources
+## References
 
 - <a href=https://www.raa.se/museer/digital-omstallning-pa-museiomradet/k-samsok-en-digital-dataformedlingstjanst-for-kulturarv/> "‘K-samsök – en digital dataförmedlingstjänst för kulturarv’</a>. 30 September 2026. 
 - ‘<a href=https://runor.raa.se/search>Runor</a>’. Accessed 11 November 2026. 
