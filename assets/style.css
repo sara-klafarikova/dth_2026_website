@@ -240,3 +240,7 @@ main img {
     font-style: italic;
     font-weight: italic;
     color: #f4eeee;}
+#totalCount {
+  align-self: center;
+  margin: 0;
+}
